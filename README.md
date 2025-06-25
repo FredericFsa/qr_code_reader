@@ -15,3 +15,4 @@ Lecteur de QR code moderne développé en **React + Vite + Tailwind CSS**, avec 
 - 🔒 Aucune donnée envoyée en ligne – tout est local
 
 ---
+"# qr_code_reader" 
